@@ -6,73 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57a0fb0e-a8fe-4ad1-85db-156db1175d27" name="Default Changelist" comment="First">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Soft.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/sdu/dc/VerifyCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cn/edu/sdu/dc/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/addcate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/adv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/cateedit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/column.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/css/pintuer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/passcode.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/tmbg-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/images/y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/js/pintuer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/pass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/strategy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/tips.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/add.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/adv.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/book.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/cate.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/cateedit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/column.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/css/pintuer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/images/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/images/passcode.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/images/tmbg-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/images/x.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/images/y.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/info.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/js/pintuer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/pass.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/strategy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/Soft/tips.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/edu/sdu/dc/VerifyCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/cn/edu/sdu/dc/test.class" afterDir="false" />
+    <list default="true" id="57a0fb0e-a8fe-4ad1-85db-156db1175d27" name="Default Changelist" comment="Second">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -102,14 +37,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="499">
+              <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/add.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-105">
+              <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -128,18 +72,9 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/webapp/column.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1125">
-              <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/strategy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
+            <state relative-caret-position="363">
               <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
               <folding>
                 <element signature="n#style#0;n#input#0;n#div#1;n#div#2;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -149,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/sdu/dc/VerifyCode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="-897">
               <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -240,6 +175,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/list.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/strategy.html" />
         <option value="$PROJECT_DIR$/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/src/main/webapp/add.html" />
       </list>
     </option>
   </component>
@@ -264,10 +200,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="65" />
-    <option name="y" value="-4" />
-    <option name="width" value="1301" />
-    <option name="height" value="772" />
+    <option name="x" value="123" />
+    <option name="y" value="24" />
+    <option name="width" value="1281" />
+    <option name="height" value="676" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -475,17 +411,33 @@
       <workItem from="1584865639663" duration="3625000" />
       <workItem from="1584962075426" duration="2529000" />
       <workItem from="1585200101532" duration="1200000" />
-      <workItem from="1585367365588" duration="2504000" />
+      <workItem from="1585367365588" duration="3800000" />
     </task>
+    <task id="LOCAL-00001" summary="First">
+      <created>1585370119418</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585370119418</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second">
+      <created>1585377330076</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585377330076</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76299000" />
+    <option name="totallyTimeSpent" value="77595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21468475" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21468475" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -504,7 +456,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50039905" side_tool="true" visible="true" weight="0.32934132" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49960095" visible="true" weight="0.32934132" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49960095" visible="true" weight="0.32934132" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49960095" weight="0.32934132" />
@@ -550,7 +502,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First" />
-    <option name="LAST_COMMIT_MESSAGE" value="First" />
+    <MESSAGE value="Second" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
@@ -588,11 +541,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/webapp/cateedit.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-225" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/add.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-360" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
@@ -671,32 +619,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
-          <folding>
-            <element signature="n#head#0;n#html#0;n#!!top" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/column.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1125">
           <caret line="75" column="45" selection-start-line="75" selection-start-column="45" selection-end-line="75" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/strategy.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#1;n#div#2;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#4;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -738,19 +664,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/sdu/dc/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="379">
@@ -763,11 +676,53 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/sdu/dc/VerifyCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="-897">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="88" column="32" selection-start-line="88" selection-start-column="32" selection-end-line="88" selection-end-column="32" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/strategy.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="92" column="15" selection-start-line="92" selection-start-column="15" selection-end-line="92" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#div#1;n#div#2;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#textarea#0;n#div#1;n#div#4;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="60" column="49" lean-forward="true" selection-start-line="60" selection-start-column="49" selection-end-line="60" selection-end-column="49" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#ul#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#li#1;n#ul#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/add.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="20" column="24" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
         </state>
       </provider>
     </entry>
